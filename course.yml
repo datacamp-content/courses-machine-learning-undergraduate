@@ -1,5 +1,11 @@
 title: Machine Learning (Undergraduate)
-description: Course description goes here.
+description: >-
+  This online machine learning course is perfect for those who have a solid
+  basis in R and statistics, but are complete beginners with machine learning.
+  After a broad overview of the discipline's most common techniques and
+  applications, you'll gain more insight into the assessment and training of
+  different machine learning models. The rest of the course is dedicated to a
+  first reconnaissance with three of the most basic machine learning tasks:
+  classification, regression and clustering.
 programming_language: r
-from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
+from: 'r-base-prod:v1.0.2'
